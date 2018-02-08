@@ -1,0 +1,43 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Lato', sans-serif;
+}
+
+.container {
+  background: #3F3D3B;
+  color: white;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+}
+
+.heading {
+  font-size: 20px;
+}
+
+.navigation {
+  display: flex;
+}
+
+.list-item {
+  padding-right: 20px;
+}
+
+
+.main-heading {
+  padding-top: 300px;
+  text-align: center;
+}
+
+.main-text {
+  padding-bottom: 300px;
+  text-align: center;
+}
